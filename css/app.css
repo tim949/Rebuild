@@ -1,0 +1,41 @@
+body{
+	background-color: #FCFCFC;
+	font-family: 'Nunito', sans-serif;
+	margin: 3rem;
+}
+
+h1 {
+	font-size: 1.3rem;
+	font-family: 'Montserrat', Helvetica, Roboto, Arial, sans-serif;
+	font-weight: 600;
+}
+
+.header-nav {
+	text-align: center;
+	margin-bottom: 3rem;
+}
+
+.header-nav img {
+	margin-bottom: 1rem;
+}
+
+.header-nav-subtitle{
+	font-size: 1rem;
+	letter-spacing: .05rem;
+}
+
+.header-nav-link{
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #000;
+	letter-spacing: .05rem;
+	
+}
+
+.header-nav-link:hover{
+	color: #BB7676;
+}
+
+.is-active{
+	color: #7b183e;
+}
