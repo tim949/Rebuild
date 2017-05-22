@@ -10,14 +10,14 @@ h1 {
 	font-weight: 600;
 }
 
-.header-nav {
+/* .header-nav {
 	text-align: center;
 	margin-bottom: 3rem;
-}
+} */
 
-.header-nav img {
+/* .header-nav img {
 	margin-bottom: 1rem;
-}
+} */
 
 .header-nav-subtitle{
 	font-size: 1rem;
@@ -42,4 +42,14 @@ h1 {
 
 .content{
 	margin: 3rem 0;
+}
+
+.top-bar {
+overflow: hidden;
+max-height: 350px;
+line-height: 45px;
+position: relative;
+background: none;
+margin-bottom: 0; 
+max-width: 1600px;
 }
