@@ -39,3 +39,7 @@ h1 {
 .is-active{
 	color: #7b183e;
 }
+
+.content{
+	margin: 3rem 0;
+}
