@@ -48,8 +48,8 @@ h1 {
 overflow: hidden;
 max-height: 350px;
 line-height: 45px;
-position: relative;
+/*position: relative;*/
 background: none;
 margin-bottom: 0; 
-max-width: 1600px;
+/*max-width: 1200px;*/
 }
