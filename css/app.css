@@ -53,3 +53,7 @@ background: none;
 margin-bottom: 0; 
 /*max-width: 1200px;*/
 }
+
+.top-bar ul {
+    background-color: transparent;        
+}
