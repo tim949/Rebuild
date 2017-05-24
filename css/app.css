@@ -10,7 +10,7 @@ h1 {
 	font-weight: 600;
 }
 
-/* .header-nav {
+/*.header-nav {
 	text-align: center;
 	margin-bottom: 3rem;
 } */
@@ -42,16 +42,14 @@ h1 {
 
 .content{
 	margin: 3rem 1.5rem;
+	padding:0;
 }
 
 .top-bar {
 overflow: hidden;
 max-height: 350px;
 line-height: 45px;
-/*position: relative;*/
 background: none;
-/*margin-bottom: 0; */
-/*max-width: 1256px; */
 padding-left:1.5rem;
 padding-right:1.5rem;
 }
@@ -60,6 +58,6 @@ padding-right:1.5rem;
     background-color: transparent;        
 }
 
-.column{
+.header-column{
 	padding:0;
 }
