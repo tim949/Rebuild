@@ -55,7 +55,8 @@ padding-right:1.5rem;
 }
 
 .top-bar ul {
- background-color: transparent;        
+ background-color: transparent;
+ margin-top: -70px;        
 }
 
 .header-column{
