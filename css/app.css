@@ -49,13 +49,13 @@ h1 {
 overflow: hidden;
 max-height: 350px;
 line-height: 45px;
-background-image: url(img/home_new.jpg);
+background:none;
 padding-left:1.5rem;
 padding-right:1.5rem;
 }
 
 .top-bar ul {
-    background-color: transparent;        
+ background-color: transparent;        
 }
 
 .header-column{
